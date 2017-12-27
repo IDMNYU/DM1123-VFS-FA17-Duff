@@ -2,7 +2,7 @@
 ##### Fall 2017 • De Angela L. Duff • Fridays 10am-1:50pm • 2MTC MAGNET 811
 
 ---
-## [Schedule:](dm1123_schedule_overview.md) Week 4
+## [Schedule:](dm1123_schedule_overview.md) Week 10
 
 
 <table>
@@ -11,27 +11,38 @@
 <td>Fridays (due on date listed)</td>
 </tr>
 <tr>
-  <td valign="top">4</td>
-  <td valign="top"><strong>Sep 29</strong></td>
+  <td valign="top">10</td>
+  <td valign="top"><strong>Nov. 10</strong></td>
 </tr>
 <tr>
 <td valign="top">class</td>
 <td valign="top">
 <ul>
-<li>Discuss IDM / Clive Davis Student Mixer on Friday Oct. 6 from 6-8pm in MAGNET Lecture Hall. <a href="https://docs.google.com/forms/d/e/1FAIpQLScor8MWWq67HMnLWa4a_QPHUX3WISvDQ4jQogVVS5ktzhiWOg/viewform" target="_blank">RSVP here.</a></li>
-
-<li><a href="dm1123vfs_show_and_tells.md">Logo Show &amp; Tells</a></li>
+<li>Discuss</li>
+<ul>
+<li>Next Week's Homework</li>
+<li><a href="dm1123vfs_projects_interface.md">Interface Wireframes</a></li>
 </ul>
+<li><a href="assigned_creator_show_and_tells.md">Creator Show and Tells:</a></li>
+    <ul>
+    <li>Fillmore Posters (Mayda)</li>
+    <li>Peter Saville (Priyana)</li>
+    <li>Tadanori Yokoo (Anisa)</li> 
+    </ul>       
+</ul>
+  
 </td>
 </tr>
+<!-- read -->
 
 
 <!-- do -->
 <tr>
   <td valign="top">do</td>
   <td>
+  <strong>Interface wireframes: </strong>
   <ul>
-  <li><a href="dm1123vfs_show_and_tells.md">Logo Show &amp; Tells</a></li>
+  <li><a href="dm1123vfs_projects_interface.md">1st Draft</a></li>   
   </ul>
   <strong>CONTINUE <a href="http://nyu.edu/lynda">nyu.edu/lynda</a> Tutorials</strong> (as needed, based on your current skill levels in these programs.)
   <ul>

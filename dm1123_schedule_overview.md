@@ -66,8 +66,8 @@ Gitbook is the official source for all dates and assignments; the syllabus is NO
     </tr>
     <tr>
         <td>4</td>
-        <td>Sep 29</td>
-        <td valign="top"><a href="week_4_detail.md"></a>
+        <td><a href="week_4_detail.md">Sep 29</a></td>
+        <td valign="top">
         <ul>         
         <li>LOGO Show &amp; Tells</strong></li>    
         </ul>
@@ -75,9 +75,10 @@ Gitbook is the official source for all dates and assignments; the syllabus is NO
     </tr>
     <tr>
         <td>5</td>
-        <td>Oct 06</td>
-        <td><a href="week_5_detail.md"></a>
+        <td><a href="week_5_detail.md">Oct 06</a></td>
+        <td>
         <ul>
+        <li>Remaining Logo Show &amp; Tells</li>
         <li>LOGO 1st Draft</li>
         <li>Creator Show and Tells:</li>
             <ul>
@@ -91,8 +92,8 @@ Gitbook is the official source for all dates and assignments; the syllabus is NO
     </tr>
     <tr>
         <td>6</td>
-        <td>Oct 13</td>     
-        <td><a href="week_6_detail.md"></a>
+        <td><a href="week_6_detail.md">Oct 13</a></td>     
+        <td>
         <ul>
         <li>LOGO 2nd Draft</li>
         <li>Creator Show and Tells:</li>
@@ -108,8 +109,8 @@ Gitbook is the official source for all dates and assignments; the syllabus is NO
     </tr>
     <tr>
         <td>7</td> 
-        <td>Oct 20</td>    
-        <td><a href="week_7_detail.md"></a>
+        <td><a href="week_7_detail.md">Oct 20</a></td>    
+        <td>
         <ul>
         <strong>
         <ul>
@@ -126,26 +127,26 @@ Gitbook is the official source for all dates and assignments; the syllabus is NO
     </tr>
     <tr>
         <td>8</td> 
-        <td>Oct 27</td>    
-        <td><a href="week_8_detail.md"></a>
+        <td><a href="week_8_detail.md">Oct 27</a></td>    
+        <td>
         <ul>
-        <li>PHYSICAL APP 1st Draft</li>
+        <li>PHYSICAL APP 1st Draft (Versions)</li>
         <li>Creator Show and Tells:</li>
             <ul>
             <li>Peter Saville</li>
             <li>Chip Kidd</li>
             <li>Art Chantry</li>
-            <li>Fillmore Poster</li>
+            
             </ul>
         </ul>
         </td>
     </tr>
     <tr>
         <td>9</td>  
-        <td>Nov 3</td>     
+        <td><a href="week_9_detail.md">Nov 3</a></td>     
         <td valign="top">
         <ul>
-        <li>PHYSICAL APP 2nd Draft</li>
+        <li>PHYSICAL APP 2nd Draft (Variations)</li>
         <li>Creator Show and Tells:</li>
             <ul>
             <li>Josef Müller-Brockmann</li>
@@ -161,25 +162,26 @@ Gitbook is the official source for all dates and assignments; the syllabus is NO
     </tr>
     <tr>
         <td>10</td>  
-        <td>Nov 10</td>    
+        <td><a href="week_10_detail.md">Nov 10</a></td>    
         <td>
         <ul>
-        <li>INTERFACE Wireframes 1st Draft</li>
+        <li>INTERFACE Wireframes (and, if applicable, Sitemap) 1st Draft</li>
         <li>Creator Show and Tells:</li>    
             <ul>
             <li>Marian Bantjes</li>
             <li>Tadanori Yokoo</li>
+            <li>Fillmore Poster</li>
             </ul>
         </ul>
        </td>
     </tr>
     <tr>
         <td>11</td> 
-        <td>Nov 17</td>   
+        <td><a href="week_10_detail.md">Nov 17</a></td>   
         <td>
         <ul>
-        <li>INTERFACE Wireframes 2nd Draft</li>
-        <li>INTERFACE 1st Draft</li>
+        <li>INTERFACE Wireframes (and, if applicable, Sitemap) 2nd Draft</li>
+        <li>INTERFACE Comp 1st Draft</li>
         </ul>
         </td>
     </tr>
@@ -205,6 +207,8 @@ Gitbook is the official source for all dates and assignments; the syllabus is NO
         <td>
         <ul>
         <li>PDF or BOOK 1st DRAFT</strong></li>
+        <li>Physical Application Rubric slacked as pdf to De Angela</li>
+        <li>Interface Rubric slacked as pdf to De Angela</li>
         </ul>
         </td>
     </tr>

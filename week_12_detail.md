@@ -2,7 +2,7 @@
 ##### Fall 2017 • De Angela L. Duff • Fridays 10am-1:50pm • 2MTC MAGNET 811
 
 ---
-## [Schedule:](dm1123_schedule_overview.md) Week 4
+## [Schedule:](dm1123_schedule_overview.md) Week 12
 
 
 <table>
@@ -11,19 +11,24 @@
 <td>Fridays (due on date listed)</td>
 </tr>
 <tr>
-  <td valign="top">4</td>
-  <td valign="top"><strong>Sep 29</strong></td>
+  <td valign="top">12</td>
+  <td valign="top"><strong>Dec. 1</strong></td>
 </tr>
 <tr>
 <td valign="top">class</td>
-<td valign="top">
-<ul>
-<li>Discuss IDM / Clive Davis Student Mixer on Friday Oct. 6 from 6-8pm in MAGNET Lecture Hall. <a href="https://docs.google.com/forms/d/e/1FAIpQLScor8MWWq67HMnLWa4a_QPHUX3WISvDQ4jQogVVS5ktzhiWOg/viewform" target="_blank">RSVP here.</a></li>
 
-<li><a href="dm1123vfs_show_and_tells.md">Logo Show &amp; Tells</a></li>
+<ul>
+<li>Discuss</li>
+  <ul>
+  <li>Next Week's Homework</li>
+  <li><a href="dm1123vfs_projects_pa.md">PHYSICAL APP FINAL</a></li>
+  <li><a href="dm1123vfs_projects_interface.md">INTERFACE FINAL</a></li>
+  </ul>      
 </ul>
+  
 </td>
 </tr>
+<!-- read -->
 
 
 <!-- do -->
@@ -31,7 +36,8 @@
   <td valign="top">do</td>
   <td>
   <ul>
-  <li><a href="dm1123vfs_show_and_tells.md">Logo Show &amp; Tells</a></li>
+  <li><a href="dm1123vfs_projects_pa.md">PHYSICAL APP FINAL</a></li>
+  <li><a href="dm1123vfs_projects_interface.md">INTERFACE FINAL</a></li> 
   </ul>
   <strong>CONTINUE <a href="http://nyu.edu/lynda">nyu.edu/lynda</a> Tutorials</strong> (as needed, based on your current skill levels in these programs.)
   <ul>
